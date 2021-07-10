@@ -1,0 +1,2 @@
+# jQueryPractice
+Practicing jQuery
